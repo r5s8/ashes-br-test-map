@@ -1,2 +1,3 @@
 ---
-- memory:200M
+- name: ashes-br-test-map
+  memory: 200M
