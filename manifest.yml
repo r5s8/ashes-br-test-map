@@ -3,3 +3,4 @@ applications:
 - name: ashes-br-test-map
   memory: 100M
   path: dist
+  command: npm start
