@@ -1,0 +1,6 @@
+---
+applications:
+- name: ashes-br-test-map
+  memory: 100M
+  path: dist
+  buildpack: staticfile_buildpack
